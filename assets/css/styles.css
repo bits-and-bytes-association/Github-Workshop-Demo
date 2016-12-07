@@ -1,0 +1,12 @@
+.container{
+	background-color: gray;
+	color:black;
+}
+
+.list-group-item{
+	color:#636363;
+}
+
+.strikethrough:checked + span{
+  text-decoration:line-through
+}
